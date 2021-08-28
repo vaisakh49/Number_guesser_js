@@ -1,7 +1,7 @@
 # Number_guesser_js
 Simple number guessing game with vanilla javascript.
 <p>
-<a href=''>Go to site</a>
+<a href='https://xenodochial-goldstine-12da89.netlify.app/'>Go to site</a>
 </p>
 <h2>Screenshots</h2>
 <div align='center'>
